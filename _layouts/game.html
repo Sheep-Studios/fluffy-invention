@@ -41,7 +41,7 @@
                             <h3>Project information</h3>
                             <ul>
                                 <li><strong>Genre</strong>: {{ page.gnere }}</li>
-                                {{% if page.clients.size > 0 %}}<li><strong>Sites</strong>: {{ page.clients | sort | join: ", " }}</li>{{ endif }}
+                                {{% if page.clients.size !== 0 %}}<li><strong>Sites</strong>: {{ page.clients | sort | join: ", " }}</li>{{ endif }}
                                 <li><strong>Project date</strong>: {{ page.date | date: "%-d %B, %Y"}}</li>
                             </ul>
                         </div>
