@@ -9,7 +9,7 @@ title: Home
     <div class="container text-center text-md-left" data-aos="fade-up">
         <h1>👋 Hey, We're Sheep Studios.</h1>
 
-        <h2>For three years, we've been making games for the world to enjoy.</h2>
+        <h2>For two years, we've been making games for the world to enjoy.</h2>
 
         <a href="#portfolio" class="btn-get-started scrollto">Our Games</a>
     </div>
