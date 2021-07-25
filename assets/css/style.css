@@ -5,11 +5,13 @@
 * License: https://bootstrapmade.com/license/
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #444444;
 }
 
@@ -23,7 +25,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -1139,7 +1141,7 @@ section {
 .faq .faq-list a {
   display: block;
   position: relative;
-  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
@@ -1403,7 +1405,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #fff;
 }
 
@@ -1522,7 +1524,7 @@ section {
 
 
 .button-normal {
-  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
