@@ -7,7 +7,7 @@ title: Home
 <!-- Fullscreen hero section start -->
 <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="container text-center text-md-left" data-aos="fade-up">
-        <h1>We are Sheep Studios</h1>
+        <h1>👋 Hey, We're Sheep Studios.</h1>
 
         <h2>For three years, we've been making games for the world to enjoy.</h2>
 
