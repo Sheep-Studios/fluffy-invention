@@ -20,5 +20,5 @@ img3: happy-town/img-3.png
 clients: [Armor Games, Shockwave]
 ---
 
-<a href="https://armorgames.com/play/18631/happy-town" target="_BLANK" class="button-normal">ArmorGames.com</a>
-<a href="http://www.shockwave.com/gamelanding/happy-town.jsp" class="button-normal">Shockwave.com</a>
+<a href="https://armorgames.com/play/18631/happy-town" class="button-normal" target="_BLANK">ArmorGames.com</a>
+<a href="http://www.shockwave.com/gamelanding/happy-town.jsp" class="button-normal" target="_BLANK">Shockwave.com</a>

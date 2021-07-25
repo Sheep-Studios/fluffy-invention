@@ -20,6 +20,6 @@ img3: color-cross/img-3.png
 clients: [Armor Games, Addicting Games, CoolMathGames]
 ---
 
-<a href="https://www.addictinggames.com/action/color-cross" target="_BLANK" class="button-normal">AddictingGames.com</a>
-<a href="http://armorgames.com/color-cross-game/18836" class="button-normal">ArmorGames.com</a>
-<a href="https://www.coolmathgames.com/0-color-cross" class="button-normal">CoolMathGames.com</a>
+<a href="https://www.addictinggames.com/action/color-cross" class="button-normal" target="_BLANK">AddictingGames.com</a>
+<a href="http://armorgames.com/color-cross-game/18836" class="button-normal" target="_BLANK">ArmorGames.com</a>
+<a href="https://www.coolmathgames.com/0-color-cross" class="button-normal" target="_BLANK">CoolMathGames.com</a>
