@@ -65,7 +65,8 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 997;
   transition: all 0.5s;
   padding: 15px 0;
-  background: #000;
+  background: #fff;
+  box-shadow: 0 0 20px gray;
 }
 
 #header .logo h1 {
@@ -145,7 +146,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #fff;
+  color: #21413c;
 }
 
 .nav-menu .drop-down ul {
