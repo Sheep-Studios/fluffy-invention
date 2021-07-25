@@ -16,46 +16,8 @@ title: Home
 </section>
 <!-- End hero section -->
 
-<!-- Services section start -->
+<!-- Main content start -->
 <main id="main">
-    <section id="services" class="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-6 col-lg-7 aos-init aos-animate" data-aos="fade-right">
-                    <img src="assets/img/services.png" class="img-fluid" alt="Sheep Studios Services" />
-                </div>
-                <div class="col-xl-6 col-lg-5 pt-5 pt-lg-0">
-                    <h3 data-aos="fade-up" class="aos-init aos-animate">Services</h3>
-                    <p data-aos="fade-up" class="aos-init aos-animate">
-
-                    </p>
-
-                    <!-- Licensing -->
-                    <div class="icon-box aos-init aos-animate" data-aos="fade-up">
-                        <i class="bx bx-receipt"></i>
-                        <h4>Licensing</h4>
-                        <p>Get high-quality games for your site at an affordable price.</p>
-                    </div>
-
-                    <!-- Publishing -->
-                    <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                        <i class="bx bx-network-chart"></i>
-                        <h4>Publishing</h4>
-                        <p>We offer fair rates to publish your HTML5 game</p>
-                    </div>
-
-                    <!-- Game development -->
-                    <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                        <i class="bx bx-game"></i>
-                        <h4>Game development</h4>
-                        <p>We make cross-platform HTML5 and mobile games.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Services Section -->
-
     {% include our-games.html %}
 
     <!-- Contact section start -->
