@@ -55,7 +55,7 @@
                         <br /><br />
                         <h2>Play</h2>
                         <p>
-                            You can play {{ page.title }} here: {{page.isWeb}}
+                            You can play {{ page.title }} here:
                         </p>
 
                         {{ content }}
@@ -64,7 +64,7 @@
             </section>
             <!-- Portfolio section end -->
 
-            {{% if page.isWeb == true %}}
+            {{% if page.isWeb == "true" %}}
             <!-- Contact section start -->
             <section id="contact" class="contact">
                 <div class="container">
