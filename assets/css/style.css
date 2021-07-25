@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: rgba(255, 255, 255, 0.8);
+  color: #21413c;
   padding: 8px 0 12px 0;
   transition: 0.3s;
   font-size: 14px;
